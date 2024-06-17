@@ -20,5 +20,7 @@
 	<p>Data da conexão <br> <?php echo date("d/m/Y")  ?> </p>
 	<p>Hora da conexão <br> <?php echo date("H:i:s")  ?> </p>
 
+<a href="sessoes-verifica-sessao.php">Área de administrador</a>
+
 </body>
 </html>
